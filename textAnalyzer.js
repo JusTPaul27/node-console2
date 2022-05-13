@@ -62,7 +62,7 @@ fs.writeFileSync(inputUtente[1], testo, err => {
     if (err) throw err;
 });
 
-// se lutente non ha inserito l'outoput url sovrascrive il file originale
+// se l'utente non ha inserito l'outoput url sovrascrive il file originale
 
 
 //es es originale => viva il css
